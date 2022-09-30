@@ -85,6 +85,8 @@ export class AppController extends UIController {
 
         const ScrollView = tuval$forms.ScrollView;
 
+        const DropDown = tuval$forms.DropDown;
+
             ${is.nullOrEmpty(this.Code) ? null : this.Code}
 
         `;

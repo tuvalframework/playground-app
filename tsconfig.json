@@ -19,7 +19,6 @@
     "allowSyntheticDefaultImports": true,
     "experimentalDecorators": true,
     "emitDecoratorMetadata": false,
-    "declarationDir": "dist_types/types",
     "outDir": "dist/lib",
     "jsx": "react",
     "jsxFactory": "Teact.createElement",
